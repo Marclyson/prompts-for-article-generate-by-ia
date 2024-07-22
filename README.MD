@@ -30,8 +30,7 @@ ChatGPT：
 
 |   Ação   | prompt                                                                                                                                                                                                                                                                         |
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-|  título  | Crie 10 headlines para nomes de artigos sobre o assunto: Pentaho - Criando pipelines de dados
-                                                                                                                                                                                                    |
+|  título  | Crie 10 headlines para nomes de artigos sobre o assunto: Pentaho - Criando pipelines de dados|
 | conteúdo | Comporte-se como um escritor de artigos engenheiro de dados de nível sênior e escreva o artigo atendendo as regras abaixo
 
 {REGRAS}
